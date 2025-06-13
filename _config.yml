@@ -28,9 +28,6 @@ url: "https://kimumean.github.io"
 github:
   username: kimumean # change to your GitHub username
 
-twitter:
-  username: kimumean # change to your Twitter username
-
 instagram:
   username: kimumean # change to your Instagram username, or keep it empty if you don't have one
 
@@ -41,7 +38,6 @@ social:
   email: umin2629@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/kimumean # change to your Twitter homepage
     - https://github.com/kimumean # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
