@@ -1,7 +1,7 @@
 ---
 title: "First Posting"
 date: 2025-06-14 00:01:10 +0900
-categories: [blog]
+categories: [posts]
 tags: [intro, chirpy, verilog]
 ---
 
