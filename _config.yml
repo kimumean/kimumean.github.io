@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Simple HDL Notes
 
-tagline: Learning hardware design, one gate at a time
+tagline: Learning hardware design,      one gate at a time
 
 description: >-
   A modern, clean notebook exploring Verilog, digital logic, and hardware systems.
