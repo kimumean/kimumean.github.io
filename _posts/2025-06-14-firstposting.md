@@ -6,8 +6,5 @@ tags: [intro]
 ---
 
 Hi, this is my first post using the **Chirpy Jekyll theme**.
-I'm starting this blog to document my journey into hardware design, Verilog, and digital logic.
-
-I'll be posting technical notes, design experiments, and maybe a few personal reflections too.
 
 Let's go 🚀
